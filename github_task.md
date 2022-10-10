@@ -1,2 +1,2 @@
-# github-home-work
+# github for assignment
 これは課題用ファイルです
